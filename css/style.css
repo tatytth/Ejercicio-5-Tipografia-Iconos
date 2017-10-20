@@ -1,0 +1,43 @@
+div{
+	width: 160px;
+	height: 160px;
+	float: left;
+	display: inline-block;
+	background: #FBFBFB;
+}
+
+h4 {
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+}
+
+p{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	color: grey;
+	font-size: 10px;
+}
+
+.fa{
+	text-align: center;
+	color: #6B6B6B;
+	font-size: 10px;
+	margin-left: 5px;
+}
+
+
+div.fa:hover {
+	color: #000000;
+	font-size: 30px;
+	background: #FFFFFF;
+}
+
